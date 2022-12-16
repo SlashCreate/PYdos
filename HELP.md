@@ -18,3 +18,9 @@ print will display text in the console.
 clear
 ```
 clear will clear the console.
+
+```
+git
+```
+git displays GitHub link.
+
