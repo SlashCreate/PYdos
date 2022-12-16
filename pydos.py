@@ -17,7 +17,7 @@ def cmdRun():
      cmdRun()
 
   if cmd == "help":
-     print("\nprint#<text>\nclear\nhelp\git ")
+     print("\nprint#<text>\nclear\nhelp\ngit ")
      print("")
      cmdRun() 
 
