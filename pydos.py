@@ -17,13 +17,18 @@ def cmdRun():
      cmdRun()
 
   if cmd == "help":
-     print("\nprint#<text>\nclear\nhelp\nmath.<function>#<a>#<b> ")
+     print("\nprint#<text>\nclear\nhelp\git ")
      print("")
      cmdRun() 
 
   if cmd == "clear":
      import os
      os.system('clear')
+     cmdRun()
+
+  if cmd == "git":
+     print("github: https://github.com/SlashCreate/PYdos")
+     print(" ")
      cmdRun()
   cmdRun()
 
